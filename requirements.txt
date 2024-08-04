@@ -1,0 +1,13 @@
+flask_jwt_extended
+flask
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+flask_bcrypt
+marshmallow
+flask_cors
+flask_mail
+celery
+matplotlib
+numpy
+redis

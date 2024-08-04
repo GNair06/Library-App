@@ -1,0 +1,19 @@
+install vue cli: 
+in terminal:
+sudo npm install -g @vue/cli (to install globally)
+
+create a vue project
+vue create frontend (in vs code terminal)
+then manually select features
+then router
+version 3
+...
+
+cd to frontend
+in terminal: npm runserve
+
+for eslint error
+npx eslint --fix src/views/RegisterPage.vue
+
+
+
