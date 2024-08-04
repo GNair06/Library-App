@@ -36,3 +36,9 @@ This project is a Library Management System built using Flask. It provides a ran
    ```bash
    git clone https://github.com/GNair06/Library-App.git
    cd Library-App
+
+2. **Install node modules:**
+
+  ```bash
+   cd front
+   npm i
